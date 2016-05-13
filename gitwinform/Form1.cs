@@ -16,5 +16,11 @@ namespace gitwinform
         {
             InitializeComponent();
         }
+
+
+        public void print()
+        {
+            MessageBox.Show("first~");
+        }
     }
 }
