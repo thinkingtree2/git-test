@@ -33,4 +33,9 @@ namespace gitwinform
         {
 
         }
+
+        public void setName()
+        {
+
+        }
 }
