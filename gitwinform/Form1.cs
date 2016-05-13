@@ -16,22 +16,5 @@ namespace gitwinform
         {
             InitializeComponent();
         }
-
-
-        public void print()
-        {
-            MessageBox.Show("first~");
-        }
-
-        public void GetName()
-        {
-            MessageBox.Show("soo");
-        }
-
-
-        public void GetName2()
-        {
-            MessageBox.Show("soo");
-        }
     }
 }
