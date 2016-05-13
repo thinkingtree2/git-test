@@ -12,6 +12,8 @@ namespace gitwinform
 {
     public partial class Form1 : Form
     {
+        private string name;
+
         public Form1()
         {
             InitializeComponent();
@@ -33,5 +35,11 @@ namespace gitwinform
         {
             MessageBox.Show("soo");
         }
+
+        public void SetName(string name)
+        {
+            this.name = name;
+        }
+
     }
 }
