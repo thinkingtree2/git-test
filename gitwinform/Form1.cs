@@ -42,7 +42,7 @@ namespace gitwinform
 
         public void sos()
         {
-
+            int b = 0;
         }
     }
 
