@@ -22,5 +22,10 @@ namespace gitwinform
         {
             MessageBox.Show("first~");
         }
+
+        public void GetName()
+        {
+            MessageBox.Show("soo");
+        }
     }
 }
