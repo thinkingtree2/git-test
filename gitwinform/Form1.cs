@@ -57,8 +57,13 @@ namespace gitwinform
 
             int hh = 0;
             //처음거 수정
+<<<<<<< HEAD
 
             //stash
+=======
+            //테스트
+
+>>>>>>> a2d0ae74a0c327bccee1b675b368e306a8974fec
         }
 
     }
