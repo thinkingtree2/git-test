@@ -12,7 +12,6 @@ namespace gitwinform
 {
     public partial class Form1 : Form
     {
-        private string name;
     
         public Form1()
         {
