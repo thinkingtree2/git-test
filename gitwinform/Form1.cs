@@ -50,6 +50,7 @@ namespace gitwinform
 
             int f = 0;
             int e = 0;
+            int n = 0;
         }
 
        
