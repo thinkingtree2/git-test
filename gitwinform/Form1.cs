@@ -23,5 +23,9 @@ namespace gitwinform
             MessageBox.Show("print~");
         }
 
-    }
+
+        private void newname()
+        {
+            MessageBox.Show("print~");
+        }
 }
