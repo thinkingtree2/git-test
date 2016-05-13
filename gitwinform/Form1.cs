@@ -42,8 +42,10 @@ namespace gitwinform
 
         public void sos()
         {
-
+            int a = 0;
         }
+
+        
     }
 
 }
