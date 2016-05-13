@@ -24,14 +24,30 @@ namespace gitwinform
         }
 
 
+<<<<<<< HEAD
         public void search()
+=======
+        private void newname()
+        {
+            MessageBox.Show("print~");
+        }
+
+        public void getName()
+>>>>>>> 실험
         {
 
         }
 
+<<<<<<< HEAD
         public void sos()
         {
 
         }
     }
+=======
+        public void setName()
+        {
+
+        }
+>>>>>>> 실험
 }
