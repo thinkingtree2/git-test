@@ -27,5 +27,11 @@ namespace gitwinform
         {
             MessageBox.Show("soo");
         }
+
+
+        public void GetName2()
+        {
+            MessageBox.Show("soo");
+        }
     }
 }
