@@ -56,6 +56,7 @@ namespace gitwinform
             int gg = 0;
 
             int hh = 0;
+            //처음거 수정
         }
 
     }
