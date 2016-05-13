@@ -24,7 +24,6 @@ namespace gitwinform
         }
 
 
-
         public void search()
         {
 
@@ -53,9 +52,9 @@ namespace gitwinform
             int n = 0;
             int g = 0;
             int h = 0;
+
         }
 
-       
     }
 
 }
