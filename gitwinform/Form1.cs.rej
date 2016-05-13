@@ -1,0 +1,13 @@
+diff a/gitwinform/Form1.cs b/gitwinform/Form1.cs	(rejected hunks)
+@@ -27,5 +27,11 @@
+         {
+             MessageBox.Show("soo");
+         }
++
++
++        public void GetName2()
++        {
++            MessageBox.Show("soo");
++        }
+     }
+ }
