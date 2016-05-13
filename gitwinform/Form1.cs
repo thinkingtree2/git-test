@@ -28,4 +28,9 @@ namespace gitwinform
         {
             MessageBox.Show("print~");
         }
+
+        public void getName()
+        {
+
+        }
 }
